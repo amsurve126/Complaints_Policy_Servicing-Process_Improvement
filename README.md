@@ -1,4 +1,4 @@
-# Complaints & Policy Servicing – Process Improvement (Business Analysis)
+# Complaints & Policy Servicing – Process Improvement
 
 This repository contains supporting artifacts for a business analysis project focused on improving the customer complaints and policy servicing process within an insurance organisation.
 
